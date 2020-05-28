@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sagawest/testing-with-jest/issues"
   },
-  "homepage": "https://github.com/sagawest/testing-with-jest#readme"
+  "homepage": "https://github.com/sagawest/testing-with-jest#readme",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
 }
